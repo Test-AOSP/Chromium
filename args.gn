@@ -22,4 +22,4 @@ enable_gvr_services = false
 enable_remoting = false
 enable_reporting = false
 
-trichrome_certdigest = "c6adb8b83c6d4c17d292afde56fd488a51d316ff8f2c11c5410223bff8a7dbb3"
+trichrome_certdigest = "54ee45548d202c50d6cfd50774343a5f8809b446d8efc8bee64743420ad75883"
