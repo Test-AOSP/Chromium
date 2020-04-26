@@ -1,7 +1,7 @@
-From 070dadeb887807e6aa5f8907b2bba8646f666f49 Mon Sep 17 00:00:00 2001
+From 4b5978b397e01586b0115f6c080e85ce334b1caf Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Wed, 8 Apr 2020 20:48:17 -0400
-Subject: [PATCH 04/56] enable -ftrivial-auto-var-init=zero
+Subject: [PATCH 04/52] enable -ftrivial-auto-var-init=zero
 
 ---
  build/config/compiler/BUILD.gn | 4 ++++
@@ -23,5 +23,5 @@ index 16b5d6bf5bd1..98702fe39e8f 100644
      if (fatal_linker_warnings && !(is_chromeos && current_cpu == "arm") &&
          !is_mac && !is_ios && current_os != "aix") {
 -- 
-2.26.0
+2.25.2
 
