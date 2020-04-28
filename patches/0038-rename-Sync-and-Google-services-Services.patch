@@ -1,4 +1,4 @@
-From d86ef815972e70763d88854a34fa7d68cb5e9dcd Mon Sep 17 00:00:00 2001
+From 00d8be3d4f77dc28c67c2548044117a1665deae7 Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Fri, 2 Aug 2019 23:28:06 -0400
 Subject: [PATCH 38/54] rename Sync and Google services -> Services

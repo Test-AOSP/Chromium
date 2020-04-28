@@ -1,4 +1,4 @@
-From a400e1919c28b3ef6b9a7b7e715d63233cc1024e Mon Sep 17 00:00:00 2001
+From baed0577d7527ae7acaa69884588779cc2ec2f6f Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Fri, 2 Aug 2019 23:49:13 -0400
 Subject: [PATCH 45/54] remove usage and crash reports preference

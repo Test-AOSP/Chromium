@@ -1,4 +1,4 @@
-From fb9bc1660a12066af02355c0c8d8e641d9ecfbe6 Mon Sep 17 00:00:00 2001
+From 3259d958d6f14239a38d158fed9f2e8b853395fb Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Fri, 2 Aug 2019 21:11:17 -0400
 Subject: [PATCH 40/54] remove translate offer preference

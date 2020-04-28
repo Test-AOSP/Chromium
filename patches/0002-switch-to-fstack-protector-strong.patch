@@ -1,4 +1,4 @@
-From b4566e57e1ff55d8fdb1f8f72a0b9e964d82f06e Mon Sep 17 00:00:00 2001
+From 7908fe3bc092cd73fe60c870793cfdbb2ecadee3 Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Wed, 26 Dec 2018 10:20:24 -0500
 Subject: [PATCH 02/54] switch to -fstack-protector-strong

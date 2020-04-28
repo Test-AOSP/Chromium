@@ -1,4 +1,4 @@
-From 42f92c183996295b105beb2449694097db3f0249 Mon Sep 17 00:00:00 2001
+From cb771eec6c851a5a2b77ecb00e900a87278de4a6 Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Fri, 2 Aug 2019 23:48:41 -0400
 Subject: [PATCH 44/54] remove safe browsing reporting preference

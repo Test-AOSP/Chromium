@@ -1,4 +1,4 @@
-From b15ae826ff2fdb92a59f9013ba5b67cac08f8ee4 Mon Sep 17 00:00:00 2001
+From 4c32c3e2b8581573ed9854306422d166f722aa5e Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Fri, 2 Aug 2019 21:12:28 -0400
 Subject: [PATCH 41/54] remove sync preferences

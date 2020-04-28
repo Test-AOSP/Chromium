@@ -1,4 +1,4 @@
-From ff9af1b24c2338098dadd3e945e2f186c7764804 Mon Sep 17 00:00:00 2001
+From 4fa9107a8d73027673e01a4d848239f1b74a432e Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Thu, 2 May 2019 07:15:32 -0400
 Subject: [PATCH 31/54] enable strict site isolation by default on Android
