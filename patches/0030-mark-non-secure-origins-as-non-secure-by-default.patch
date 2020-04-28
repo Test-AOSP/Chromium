@@ -1,7 +1,7 @@
 From 502573a88f231bd2cf48f752747c5157ee8ee6ea Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Fri, 20 Oct 2017 21:20:50 -0400
-Subject: [PATCH 30/52] mark non-secure origins as non-secure by default
+Subject: [PATCH 30/54] mark non-secure origins as non-secure by default
 
 ---
  components/security_state/core/security_state.cc | 8 +++-----

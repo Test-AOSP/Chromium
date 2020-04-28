@@ -1,7 +1,7 @@
 From 3e06914b5b707aab1cead9077cf9fe57a494d728 Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Wed, 23 Nov 2016 09:26:51 -0500
-Subject: [PATCH 10/52] disable contextual search by default
+Subject: [PATCH 10/54] disable contextual search by default
 
 ---
  .../browser/contextualsearch/ContextualSearchFieldTrial.java    | 2 +-

@@ -1,7 +1,7 @@
 From 1958c1745c1aaf9c7c6608996159dd0fa7ed2b5b Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Fri, 2 Aug 2019 23:46:41 -0400
-Subject: [PATCH 42/52] remove navigation error preference
+Subject: [PATCH 42/54] remove navigation error preference
 
 ---
  .../settings/sync/SyncAndServicesSettings.java    | 15 +++++++++------

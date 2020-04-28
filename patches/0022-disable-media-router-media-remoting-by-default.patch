@@ -1,7 +1,7 @@
 From 7e58809743c940589b88389fd6450e34b638ed79 Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Thu, 4 Jul 2019 18:11:27 -0400
-Subject: [PATCH 22/52] disable media router media remoting by default
+Subject: [PATCH 22/54] disable media router media remoting by default
 
 ---
  chrome/browser/profiles/profile.cc | 2 +-

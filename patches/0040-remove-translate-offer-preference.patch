@@ -1,7 +1,7 @@
 From fb9bc1660a12066af02355c0c8d8e641d9ecfbe6 Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Fri, 2 Aug 2019 21:11:17 -0400
-Subject: [PATCH 40/52] remove translate offer preference
+Subject: [PATCH 40/54] remove translate offer preference
 
 ---
  .../java/res/xml/languages_preferences.xml    |  8 ++--

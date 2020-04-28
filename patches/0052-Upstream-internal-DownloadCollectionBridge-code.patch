@@ -1,7 +1,7 @@
 From db1721fd2d7f65d565dc094aba94d3425b1ffb3e Mon Sep 17 00:00:00 2001
 From: Min Qin <qinmin@chromium.org>
 Date: Wed, 4 Mar 2020 19:08:17 +0000
-Subject: [PATCH 52/52] Upstream internal DownloadCollectionBridge code
+Subject: [PATCH 52/54] Upstream internal DownloadCollectionBridge code
 
 This will allow download in public chromium build to work on Q with MediaStore.
 

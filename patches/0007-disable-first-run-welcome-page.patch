@@ -1,7 +1,7 @@
 From 11fa280cbe05b873a0947de0e3c832a3c287a38a Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Thu, 24 Nov 2016 08:19:03 -0500
-Subject: [PATCH 07/52] disable first run welcome page
+Subject: [PATCH 07/54] disable first run welcome page
 
 ---
  .../chromium/chrome/browser/firstrun/FirstRunActivity.java    | 4 ++--

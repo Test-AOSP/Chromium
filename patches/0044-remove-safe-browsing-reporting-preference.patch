@@ -1,7 +1,7 @@
 From 42f92c183996295b105beb2449694097db3f0249 Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Fri, 2 Aug 2019 23:48:41 -0400
-Subject: [PATCH 44/52] remove safe browsing reporting preference
+Subject: [PATCH 44/54] remove safe browsing reporting preference
 
 ---
  .../settings/sync/SyncAndServicesSettings.java       | 12 +++++++-----

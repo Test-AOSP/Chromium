@@ -1,7 +1,7 @@
 From 3aa18644d325dff446517aef68aaf919ec4e8ec0 Mon Sep 17 00:00:00 2001
 From: Daniel Micay <danielmicay@gmail.com>
 Date: Thu, 12 Mar 2020 13:01:02 -0400
-Subject: [PATCH 28/52] disable unused safe browsing option by default
+Subject: [PATCH 28/54] disable unused safe browsing option by default
 
 Safe Browsing is currently a no-op due to the lack of Play Services, and
 support for using the local database backend hasn't been implemented.
